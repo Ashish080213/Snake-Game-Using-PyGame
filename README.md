@@ -5,10 +5,10 @@ Snake game is a computer action game, whose goal is to control a snake to move a
 W - MOVES UP,
 S - MOVES DOWN,
 A - MOVES LEFT,
-D - MOVES RIGHT,
+D - MOVES RIGHT
 
 SPACEBAR - START GAME,
 ESC - QUIT,
-ENTER - REPLAY,
+ENTER - REPLAY
 
 ALL FILES WHICH ARE BEEN SHARED SHOULD BE IN ONE FOLDER AND THEN ENJOY YOUR GAME:)
